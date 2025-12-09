@@ -1,0 +1,3 @@
+<?php
+// HANYA SEMENTARA UNTUK GENERATE HASH
+echo password_hash("admin123", PASSWORD_BCRYPT);
